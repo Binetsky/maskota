@@ -1,0 +1,11 @@
+README.md
+CHANGELOG.md
+
+.next
+.idea
+node_modules
+dist
+*.md
+*.config.js
+*.setup.js
+__mocks__
